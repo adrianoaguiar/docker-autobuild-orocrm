@@ -8,7 +8,7 @@ ARG MEMORY_LIMIT_CLI=2048
 ARG MEMORY_LIMIT_FPM=2048
 ARG UPLOAD_LIMIT=256
 ARG GIT_URI=https://github.com/orocrm/crm-application.git
-ARG GIT_REF=tags/1.8.2
+ARG GIT_REF=tags/1.9.0
 
 RUN install-application.sh
 
