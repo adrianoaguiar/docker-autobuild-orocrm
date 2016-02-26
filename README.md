@@ -1,6 +1,7 @@
-# OroCRM Docker image (Single Container)
+# OroCRM Application
+**Single Docker Container**
 
-### Environment Variables
+## Usage
 
 **Parameters.yml Variables:**
 
