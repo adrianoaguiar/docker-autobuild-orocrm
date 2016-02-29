@@ -46,6 +46,6 @@
 
 ### Docker Compose / Tutum Stack
 
-Web Installer [https://stackfiles.io/registry/567de4d035a28a01009e57bc](https://stackfiles.io/registry/567de4d035a28a01009e57bc)  
-Automated Installation [https://stackfiles.io/registry/567de43935a28a01009e57bb](https://stackfiles.io/registry/567de43935a28a01009e57bb)
+Web Installer [https://stackfiles.io/registry/56d486622e80f00100d737c7](https://stackfiles.io/registry/56d486622e80f00100d737c7)  
+Automated Installation [https://stackfiles.io/registry/56d486be2e80f00100d737c8](https://stackfiles.io/registry/56d486be2e80f00100d737c8)
 
