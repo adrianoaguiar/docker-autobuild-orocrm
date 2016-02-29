@@ -44,8 +44,7 @@
 `GIT_URI` - Git repository uri  
 `GIT_REF` - Git reference, available value: `branchname` or `tags/tagname`  
 
-### Docker Compose / Tutum Stack
-
+### Docker Compose / Docker Cloud
 Web Installer [https://stackfiles.io/registry/56d486622e80f00100d737c7](https://stackfiles.io/registry/56d486622e80f00100d737c7)  
 Automated Installation [https://stackfiles.io/registry/56d486be2e80f00100d737c8](https://stackfiles.io/registry/56d486be2e80f00100d737c8)
 
