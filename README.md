@@ -43,3 +43,9 @@
 `UPLOAD_LIMIT` - Integer value in MB  
 `GIT_URI` - Git repository uri  
 `GIT_REF` - Git reference, available value: `branchname` or `tags/tagname`  
+
+### Docker Compose / Tutum Stack
+
+Web Installer [https://stackfiles.io/registry/567de4d035a28a01009e57bc](https://stackfiles.io/registry/567de4d035a28a01009e57bc)  
+Automated Installation [https://stackfiles.io/registry/567de43935a28a01009e57bb](https://stackfiles.io/registry/567de43935a28a01009e57bb)
+
