@@ -20,7 +20,7 @@ mail:
     - maildomain=localhost
     - smtp_user=user@localhost:password
 web:
-  image: scherepanov/orocrm:1.8.2
+  image: scherepanov/orocrm
   links:
     - "db"
     - "mail"
